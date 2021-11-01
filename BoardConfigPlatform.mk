@@ -95,8 +95,6 @@ BOARD_VNDK_VERSION := current
 
 ### SYSTEM
 BOARD_CACHEIMAGE_FILE_SYSTEM_TYPE := ext4
-# build/make
-BOARD_BUILD_SYSTEM_ROOT_IMAGE := true
 # system/core and build/make
 AB_OTA_UPDATER := false
 
